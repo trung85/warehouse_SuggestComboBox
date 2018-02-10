@@ -1,0 +1,4 @@
+E:\warehouse_dev\warehouse_SuggestComboBox\warehouse_SuggestComboBox\bin\Debug\warehouse_SuggestComboBox.dll
+E:\warehouse_dev\warehouse_SuggestComboBox\warehouse_SuggestComboBox\bin\Debug\warehouse_SuggestComboBox.pdb
+E:\warehouse_dev\warehouse_SuggestComboBox\warehouse_SuggestComboBox\obj\Debug\warehouse_SuggestComboBox.dll
+E:\warehouse_dev\warehouse_SuggestComboBox\warehouse_SuggestComboBox\obj\Debug\warehouse_SuggestComboBox.pdb
